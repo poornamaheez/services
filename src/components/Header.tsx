@@ -8,7 +8,7 @@ const Header: React.FC = () => {
         Start<span className="highlight">IT</span>
       </div>
       <nav>
-        {/* just for a testing purpose */}
+        {/* just for a testing purpose vinayyy */}
         <ul className="nav-links">
           <li><a href="#home" className="active">Home</a></li>
           <li><a href="#about">About</a></li>
