@@ -10,10 +10,10 @@ function App() {
   return (
     <>
       <Header />
-      <Body />
+      {/* <Body />
       <Services />
       <Contact />
-      <Footer />
+      <Footer /> */}
     </>
   )
 }
